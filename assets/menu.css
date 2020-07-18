@@ -1,6 +1,8 @@
 .menu-title{
     text-align: center;
-    margin-top: 120px;
+    margin-top: 150px;
+    font-family: 'Berkshire Swash', cursive;
+    font-weight: bold;
 }
 
 .menu{
@@ -11,6 +13,16 @@
     width: 286px;
     height: 250px;
     margin-right: 200px;
+    box-shadow: 0 8px 6px -6px black;
+}
+
+.card-img:hover{
+   width: 350px;
+   height: 300px;
+}
+
+p:hover{
+    letter-spacing: 1px;
 }
 
 .flex-container {
@@ -19,6 +31,22 @@
 
 .wrap {
     flex-wrap: wrap;
+}
+
+h3{
+    font-family: 'Leckerli One', cursive;
+    font-weight: bold;
+}
+
+hr{
+    background-color: blue;
+    font-weight: 50px;
+}
+
+p{
+    font-family: 'Yellowtail', cursive;
+    margin-left: 1%;
+    margin-top: 2%;
 }
 
 

@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: linear-gradient(253deg, #fff48f, #f9d56e, #febf63);
+    background: linear-gradient(253deg, #fff48f, #c7b304, #febf63);
     background-size: 300% 300%;
     -webkit-animation: Background 5s ease infinite;
     -moz-animation: Background 5s ease infinite;
@@ -51,20 +51,31 @@ body{
       background-position: 0% 50%
     }
   }
+
+  .navbar-brand{
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 2.4rem;
+  }
   
   .nav-link,.navbar-brand{
       color: white !important;
+      font-family: 'Gayathri', sans-serif;
+      font-size: 1.4rem;
+  }
+
+  .nav-link:hover{
+    font-size: 1.6rem;
+    background-color: gray;
   }
 
   .navbar-nav{
-      margin-left: 80%;
+      margin-left: 75%;
   }
 
   .navbar-toggler{
       color: white !important;
       background-color: white !important;
   }
-
   img{
       width: 50px;
       height: 50px;
@@ -73,6 +84,12 @@ body{
 
   .main{
     padding-top: 80px;
+  }
+  
+  .welcome{
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 2.2rem;
   }
 
   .footer {
@@ -85,10 +102,15 @@ body{
     color: white;
     text-align: center;
  }
+
+ .typer{
+   color: blue !important;
+ }
  
 
  .footer{
-   margin-top: 250px;
+   margin-top: 500px;
+   font-family: 'Baloo Da 2', cursive;
  }
 
  .footer>p{
