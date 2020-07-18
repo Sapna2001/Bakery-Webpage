@@ -1,0 +1,30 @@
+.menu-title{
+    text-align: center;
+    margin-top: 120px;
+}
+
+.menu{
+    margin: 5%;
+}
+
+.card-img{
+    width: 286px;
+    height: 250px;
+    margin-right: 200px;
+}
+
+.flex-container {
+    flex-direction: row;
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+
+@media (max-width:600px){
+    .row{
+        flex-direction: column;
+        margin-left: 15%;
+    }
+}

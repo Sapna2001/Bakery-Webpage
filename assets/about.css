@@ -1,0 +1,28 @@
+
+.about{
+    text-align: center;
+    margin-top: 80px;
+}
+
+.chef{
+    height: 200px;
+    margin: 25px 30px 120px 30px;
+}
+
+.description{
+    text-align: center;
+}
+
+.chef-img{
+    margin: 0 20px 0 20px;
+}
+h3{
+    margin: 0 10px 0 10px;
+}
+
+@media (max-width:600px){
+    .chef{
+        height: 500px;
+        margin: 25px 40px 120px 40px;
+    }
+}
