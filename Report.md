@@ -5,14 +5,14 @@ Bakery and Restaurant Page
 - Sunrise Bakery
 
 # Tasks to be done :
-- Navbar (Completed)
-- Landing Page (Almost complete)
+- Navbar 
+- Landing Page 
 - About Section
 - Menu (30 items)
 - Contact Us Page
-- Company Logo (Completed)
+- Company Logo 
 - Business Location
-- Footer ((Completed))
+- Footer 
 
 # Tech Stack Used:
 - HTML
@@ -60,7 +60,7 @@ Pics for Menu
 - Pista Ice Cream -> Photo by Jason Leung on Unsplash(https://unsplash.com/photos/Q6uTgpjlE7A)
 
 # Note
-The styling of the page with fonts and colors will be done after completing the basic features.</br>
+The website is almost complete. Styling and some modification is only left</br>
 [View the website]( https://sapna2001.github.io/Frontend_Bakery-or-Restaurant_GSBSP-BR24/.)
 
 # Report Submitted by
