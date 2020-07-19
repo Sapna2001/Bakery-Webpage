@@ -58,9 +58,11 @@ Pics for Menu
 - Oreo Ice Cream -> Photo by Emile Mbunzama on Unsplash (https://unsplash.com/photos/cLpdEA23Z44)
 - Banana-Apricot Ice Cream -> Photo by Dovile Ramoskaite on Unsplash (https://unsplash.com/photos/iT4qcNMhYTQ)
 - Pista Ice Cream -> Photo by Jason Leung on Unsplash(https://unsplash.com/photos/Q6uTgpjlE7A)
+- Fonts used in the website are grom Google fonts (https://fonts.google.com/)
+- Icons in the contact Page is from Fontawesome (https://fontawesome.com/start)
 
 # Note
-The website is almost complete. Styling and some modification is only left</br>
+The website is almost complete.</br>
 [View the website]( https://sapna2001.github.io/Frontend_Bakery-or-Restaurant_GSBSP-BR24/.)
 
 # Report Submitted by
