@@ -49,7 +49,6 @@ p{
     margin-top: 2%;
 }
 
-
 @media (max-width:600px){
     .row{
         flex-direction: column;
