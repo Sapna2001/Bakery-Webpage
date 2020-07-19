@@ -61,8 +61,26 @@ Pics for Menu
 - Fonts used in the website are grom Google fonts (https://fonts.google.com/)
 - Icons in the contact Page is from Fontawesome (https://fontawesome.com/start)
 
+# Screenshots 
+
+- Home Page
+
+<img src="https://user-images.githubusercontent.com/56690856/87876029-cbff5b80-c9f2-11ea-9361-60a29f95207a.png" >
+
+- About Us Page
+
+<img src="https://user-images.githubusercontent.com/56690856/87876034-cf92e280-c9f2-11ea-939f-6522a07b9be6.png" >
+
+- Contact Us Page
+
+<img src="https://user-images.githubusercontent.com/56690856/87876051-ec2f1a80-c9f2-11ea-8a4f-1d22838f1e12.png">
+
+- Menu page
+
+<img src="https://user-images.githubusercontent.com/56690856/87876055-efc2a180-c9f2-11ea-8847-bd3c96cea098.png">
+
 # Note
-The website is almost complete.</br>
+All the teasks are completed.</br>
 [View the website]( https://sapna2001.github.io/Frontend_Bakery-or-Restaurant_GSBSP-BR24/.)
 
 # Report Submitted by
