@@ -73,7 +73,7 @@ Pics for Menu
 
 - Contact Us Page
 
-<img src="https://user-images.githubusercontent.com/56690856/87876051-ec2f1a80-c9f2-11ea-8a4f-1d22838f1e12.png">
+<img src="https://user-images.githubusercontent.com/56690856/87876083-3d3f0e80-c9f3-11ea-8df6-98aaf6e88478.png">
 
 - Menu page
 
