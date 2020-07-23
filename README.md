@@ -1,1 +1,0 @@
-# Frontend_Bakery-or-Restaurant_GSBSP-BR24
