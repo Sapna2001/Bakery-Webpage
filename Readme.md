@@ -80,7 +80,7 @@ Pics for Menu
 <img src="https://user-images.githubusercontent.com/56690856/87876055-efc2a180-c9f2-11ea-8847-bd3c96cea098.png">
 
 # Note
-[View the website]( https://sapna2001.github.io/Frontend_Bakery-or-Restaurant_GSBSP-BR24/.)</br>
+[View the website]( https://sapna2001.github.io/Bakery-Webpage/)</br>
 Made as a part of Frontend hackathon conducted by Girlscript Bilaspur.
 
 
