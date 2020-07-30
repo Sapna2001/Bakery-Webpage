@@ -1,5 +1,5 @@
 # Problem Statement
-Bakery and Restaurant Page
+Bakery or Restaurant Page
 
 # Bakery Name
 - Sunrise Bakery
